@@ -1,0 +1,27 @@
+{
+  "session_id": "fd7868b6-ee14-4565-bb0c-4aa328a93d6f",
+  "transcript_path": "[redacted]",
+  "cwd": "/repo",
+  "prompt_id": "[redacted]",
+  "permission_mode": "acceptEdits",
+  "effort": {
+    "level": "[redacted]"
+  },
+  "hook_event_name": "PostToolUse",
+  "tool_name": "Grep",
+  "tool_input": {
+    "pattern": "sessionExpiry",
+    "path": "/repo/src/auth",
+    "output_mode": "[redacted]"
+  },
+  "tool_response": {
+    "mode": "[redacted]",
+    "numFiles": 0,
+    "filenames": [],
+    "content": "[redacted]",
+    "numLines": 1,
+    "totalLines": 1
+  },
+  "tool_use_id": "toolu_01EmHQFhCXCrr22NL8u4yUyK",
+  "duration_ms": 778
+}

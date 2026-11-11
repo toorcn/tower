@@ -1,0 +1,17 @@
+{
+  "session_id": "4b649d4f-9185-4801-9379-58ba592e7bec",
+  "transcript_path": "[redacted]",
+  "cwd": "/repo",
+  "prompt_id": "[redacted]",
+  "permission_mode": "default",
+  "effort": {
+    "level": "[redacted]"
+  },
+  "hook_event_name": "PreToolUse",
+  "tool_name": "Bash",
+  "tool_input": {
+    "command": "exit 7",
+    "description": "[redacted]"
+  },
+  "tool_use_id": "toolu_01CsdXo3YnFoxwMtwPBcyUFC"
+}

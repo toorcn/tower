@@ -1,0 +1,15 @@
+{
+  "session_id": "fd7868b6-ee14-4565-bb0c-4aa328a93d6f",
+  "transcript_path": "[redacted]",
+  "cwd": "/repo",
+  "prompt_id": "[redacted]",
+  "permission_mode": "acceptEdits",
+  "effort": {
+    "level": "[redacted]"
+  },
+  "hook_event_name": "Stop",
+  "stop_hook_active": false,
+  "last_assistant_message": "[redacted]",
+  "background_tasks": [],
+  "session_crons": []
+}

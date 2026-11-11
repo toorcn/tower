@@ -1,0 +1,10 @@
+{
+  "session_id": "01a1ca6c-e7f1-7d03-b49a-34458f4e77d1",
+  "turn_id": "01a1ca6c-f152-72a3-98f2-d5ad4874be48",
+  "transcript_path": null,
+  "cwd": "/repo",
+  "hook_event_name": "UserPromptSubmit",
+  "model": "gpt-6.1-sol",
+  "permission_mode": "bypassPermissions",
+  "prompt": "Use direct tools only. Read src/auth/session.ts and src/auth/tokens.ts with cat, search sessionExpiry with rg, use apply_patch to set sessionExpiry to 180 and create src/auth/codex-second.ts exporting codexSecond=true. Run pwd. Use login=false for shell commands. Do not inspect environment or credentials."
+}

@@ -1,0 +1,15 @@
+{
+  "session_id": "01a1ca6c-e7f1-7d03-b49a-34458f4e77d1",
+  "turn_id": "01a1ca6c-f152-72a3-98f2-d5ad4874be48",
+  "transcript_path": null,
+  "cwd": "/repo",
+  "hook_event_name": "PostToolUse",
+  "model": "gpt-6.1-sol",
+  "permission_mode": "bypassPermissions",
+  "tool_name": "apply_patch",
+  "tool_input": {
+    "command": "*** Begin Patch\n*** Update File: /repo/src/auth/session.ts\n*** Add File: /repo/src/auth/codex-second.ts\n*** End Patch"
+  },
+  "tool_response": "[redacted]",
+  "tool_use_id": "exec-32c8a414-6523-4f5a-b2d2-e66e0c0e33f3"
+}

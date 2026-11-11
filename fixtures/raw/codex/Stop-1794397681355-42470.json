@@ -1,0 +1,11 @@
+{
+  "session_id": "01a1ca6f-7d23-7c02-8b74-ea2bfbac873a",
+  "turn_id": "01a1ca6f-814c-75d0-9202-bd098077da80",
+  "transcript_path": null,
+  "cwd": "/repo",
+  "hook_event_name": "Stop",
+  "model": "gpt-6.1-sol",
+  "permission_mode": "bypassPermissions",
+  "stop_hook_active": false,
+  "last_assistant_message": "[redacted]"
+}

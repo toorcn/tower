@@ -1,0 +1,14 @@
+{
+  "session_id": "01a1ca6e-abb2-73d0-9999-c3310fe47221",
+  "turn_id": "01a1ca6e-b44e-7070-808e-45aeb3a9a934",
+  "transcript_path": null,
+  "cwd": "/repo",
+  "hook_event_name": "PreToolUse",
+  "model": "gpt-6.1-sol",
+  "permission_mode": "bypassPermissions",
+  "tool_name": "apply_patch",
+  "tool_input": {
+    "command": "*** Begin Patch\n*** Update File: /repo/src/auth/missing.ts\n*** End Patch"
+  },
+  "tool_use_id": "exec-720d27c7-bf04-4394-8b86-af91d561d934"
+}

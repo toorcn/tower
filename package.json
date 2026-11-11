@@ -1,0 +1,23 @@
+{
+  "name": "tower",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.11.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "sim": "tsx packages/server/src/simulator.ts",
+    "test": "vitest run",
+    "typecheck": "pnpm -r typecheck",
+    "build": "pnpm --filter @tower/web build && pnpm --filter @tower/server build",
+    "start": "node packages/server/dist/server/src/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0",
+    "vitest": "^3.2.0"
+  }
+}

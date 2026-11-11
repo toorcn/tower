@@ -1,0 +1,4 @@
+#!/bin/sh
+set -eu
+SCRIPT_DIR=$(CDPATH= cd -P "$(dirname "$0")" && pwd)
+exec node "$SCRIPT_DIR/setup-demo.mjs" reset "$@"

@@ -1,0 +1,25 @@
+{
+  "session_id": "fd7868b6-ee14-4565-bb0c-4aa328a93d6f",
+  "transcript_path": "[redacted]",
+  "cwd": "/repo",
+  "prompt_id": "[redacted]",
+  "permission_mode": "acceptEdits",
+  "effort": {
+    "level": "[redacted]"
+  },
+  "hook_event_name": "PostToolUse",
+  "tool_name": "Bash",
+  "tool_input": {
+    "command": "pwd",
+    "description": "[redacted]"
+  },
+  "tool_response": {
+    "stdout": "[redacted]",
+    "stderr": "[redacted]",
+    "interrupted": false,
+    "isImage": false,
+    "noOutputExpected": false
+  },
+  "tool_use_id": "toolu_01LYh8dWvs2qA9BfwvPd64T5",
+  "duration_ms": 23128
+}

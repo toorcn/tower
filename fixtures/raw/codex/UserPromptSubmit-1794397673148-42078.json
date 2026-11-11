@@ -1,0 +1,10 @@
+{
+  "session_id": "01a1ca6f-7d23-7c02-8b74-ea2bfbac873a",
+  "turn_id": "01a1ca6f-814c-75d0-9202-bd098077da80",
+  "transcript_path": null,
+  "cwd": "/repo",
+  "hook_event_name": "UserPromptSubmit",
+  "model": "gpt-6.1-sol",
+  "permission_mode": "bypassPermissions",
+  "prompt": "Run exactly two exec_command calls, each with login=false: true and exit 7. These commands produce no output and exercise exit metadata only. Then stop. No other tools or reads."
+}

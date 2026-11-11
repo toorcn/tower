@@ -1,0 +1,26 @@
+{
+  "session_id": "fd7868b6-ee14-4565-bb0c-4aa328a93d6f",
+  "transcript_path": "[redacted]",
+  "cwd": "/repo",
+  "prompt_id": "[redacted]",
+  "permission_mode": "acceptEdits",
+  "effort": {
+    "level": "[redacted]"
+  },
+  "hook_event_name": "PostToolUse",
+  "tool_name": "Write",
+  "tool_input": {
+    "file_path": "/repo/src/auth/capture-note.ts",
+    "content": "[redacted]"
+  },
+  "tool_response": {
+    "type": "create",
+    "filePath": "[redacted]",
+    "content": "[redacted]",
+    "structuredPatch": [],
+    "originalFile": null,
+    "userModified": false
+  },
+  "tool_use_id": "toolu_01Gtjie44oBJZKPdjBjEvoMn",
+  "duration_ms": 15
+}

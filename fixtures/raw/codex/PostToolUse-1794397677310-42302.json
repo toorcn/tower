@@ -1,0 +1,15 @@
+{
+  "session_id": "01a1ca6f-7d23-7c02-8b74-ea2bfbac873a",
+  "turn_id": "01a1ca6f-814c-75d0-9202-bd098077da80",
+  "transcript_path": null,
+  "cwd": "/repo",
+  "hook_event_name": "PostToolUse",
+  "model": "gpt-6.1-sol",
+  "permission_mode": "bypassPermissions",
+  "tool_name": "Bash",
+  "tool_input": {
+    "command": "true"
+  },
+  "tool_response": "",
+  "tool_use_id": "exec-f2ae4434-78bc-4852-9a5f-5b4496d108b0"
+}

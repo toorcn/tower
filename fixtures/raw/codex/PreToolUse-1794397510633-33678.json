@@ -1,0 +1,14 @@
+{
+  "session_id": "01a1ca6c-e7f1-7d03-b49a-34458f4e77d1",
+  "turn_id": "01a1ca6c-f152-72a3-98f2-d5ad4874be48",
+  "transcript_path": null,
+  "cwd": "/repo",
+  "hook_event_name": "PreToolUse",
+  "model": "gpt-6.1-sol",
+  "permission_mode": "bypassPermissions",
+  "tool_name": "Bash",
+  "tool_input": {
+    "command": "cat src/auth/session.ts src/auth/tokens.ts"
+  },
+  "tool_use_id": "exec-ea79d1a0-d570-42c3-affd-c04067ff431d"
+}

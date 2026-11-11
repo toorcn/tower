@@ -1,0 +1,8 @@
+{
+  "session_id": "4b649d4f-9185-4801-9379-58ba592e7bec",
+  "transcript_path": "[redacted]",
+  "cwd": "/repo",
+  "prompt_id": "[redacted]",
+  "hook_event_name": "SessionEnd",
+  "reason": "other"
+}

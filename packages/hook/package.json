@@ -1,0 +1,11 @@
+{
+  "name": "@tower/hook",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "tower-hook": "./tower-hook.mjs"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit && node --check tower-hook.mjs && node --check capture-payload.mjs"
+  }
+}

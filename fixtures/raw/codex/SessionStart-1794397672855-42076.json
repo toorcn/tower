@@ -1,0 +1,9 @@
+{
+  "session_id": "01a1ca6f-7d23-7c02-8b74-ea2bfbac873a",
+  "transcript_path": null,
+  "cwd": "/repo",
+  "hook_event_name": "SessionStart",
+  "model": "gpt-6.1-sol",
+  "permission_mode": "bypassPermissions",
+  "source": "startup"
+}

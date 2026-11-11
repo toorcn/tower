@@ -1,0 +1,40 @@
+{
+  "session_id": "fd7868b6-ee14-4565-bb0c-4aa328a93d6f",
+  "transcript_path": "[redacted]",
+  "cwd": "/repo",
+  "prompt_id": "[redacted]",
+  "permission_mode": "acceptEdits",
+  "effort": {
+    "level": "[redacted]"
+  },
+  "hook_event_name": "PostToolUse",
+  "tool_name": "Edit",
+  "tool_input": {
+    "file_path": "/repo/src/auth/session.ts",
+    "old_string": "[redacted]",
+    "new_string": "[redacted]",
+    "replace_all": false
+  },
+  "tool_response": {
+    "filePath": "[redacted]",
+    "oldString": "[redacted]",
+    "newString": "[redacted]",
+    "originalFile": "[redacted]",
+    "structuredPatch": [
+      {
+        "oldStart": 1,
+        "oldLines": 1,
+        "newStart": 1,
+        "newLines": 1,
+        "lines": [
+          "[redacted]",
+          "[redacted]"
+        ]
+      }
+    ],
+    "userModified": false,
+    "replaceAll": false
+  },
+  "tool_use_id": "toolu_015KLomLqxfuFCceJo3eCm21",
+  "duration_ms": 336
+}

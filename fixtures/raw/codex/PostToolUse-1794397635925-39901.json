@@ -1,0 +1,15 @@
+{
+  "session_id": "01a1ca6e-abb2-73d0-9999-c3310fe47221",
+  "turn_id": "01a1ca6e-b44e-7070-808e-45aeb3a9a934",
+  "transcript_path": null,
+  "cwd": "/repo",
+  "hook_event_name": "PostToolUse",
+  "model": "gpt-6.1-sol",
+  "permission_mode": "bypassPermissions",
+  "tool_name": "apply_patch",
+  "tool_input": {
+    "command": "*** Begin Patch\n*** Update File: /repo/src/auth/codex-second.ts\n*** Move to: /repo/src/auth/codex-moved.ts\n*** Delete File: /repo/src/auth/codex-note.ts\n*** End Patch"
+  },
+  "tool_response": "Exit code: 0\nWall time: 0.5 seconds\nSuccess. Updated the following files:\nM /repo/src/auth/codex-moved.ts\nD /repo/src/auth/codex-note.ts",
+  "tool_use_id": "exec-4174ba12-3ed4-4a12-b315-df9c7889d2b3"
+}

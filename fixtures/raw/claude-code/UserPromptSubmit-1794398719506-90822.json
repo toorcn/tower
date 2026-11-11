@@ -1,0 +1,9 @@
+{
+  "session_id": "4b649d4f-9185-4801-9379-58ba592e7bec",
+  "transcript_path": "[redacted]",
+  "cwd": "/repo",
+  "prompt_id": "[redacted]",
+  "permission_mode": "default",
+  "hook_event_name": "UserPromptSubmit",
+  "prompt": "Run Bash command exit 7 exactly once, then report the exit status and stop. This is a hook fixture test. Do not use other tools or read other data."
+}

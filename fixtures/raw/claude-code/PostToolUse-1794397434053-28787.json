@@ -1,0 +1,27 @@
+{
+  "session_id": "fd7868b6-ee14-4565-bb0c-4aa328a93d6f",
+  "transcript_path": "[redacted]",
+  "cwd": "/repo",
+  "prompt_id": "[redacted]",
+  "permission_mode": "acceptEdits",
+  "effort": {
+    "level": "[redacted]"
+  },
+  "hook_event_name": "PostToolUse",
+  "tool_name": "Read",
+  "tool_input": {
+    "file_path": "/repo/src/auth/session.ts"
+  },
+  "tool_response": {
+    "type": "text",
+    "file": {
+      "filePath": "[redacted]",
+      "content": "[redacted]",
+      "numLines": 2,
+      "startLine": 1,
+      "totalLines": 2
+    }
+  },
+  "tool_use_id": "toolu_01ECvE7dN3LH5dgyefb3CUrb",
+  "duration_ms": 26
+}
